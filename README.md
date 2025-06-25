@@ -32,3 +32,6 @@ isIncome -> TRUE or FALSE based on if the value is income or expenditure (Must u
 a) Make sure the filename and sheetname are exactly as mentioned.  
 b) Make sure that the transaction templates you upload are exactly as expected to behave. Do not upload a monthly transaction and expect it to behave like a bimonthly transaction.  
 c) Verify that the titles in your sheet as well as the values in those columns match the requirements here.  
+
+# Expected Output
+![image](https://github.com/user-attachments/assets/70e7b850-e0a5-46dd-b6e9-128c45b6ac71)
